@@ -21,6 +21,7 @@ import java.util.List;
  */
 public class Calendar implements Serializable {
 	
+	// why are these public?
 	/**
 	 * Serializable Id.
 	 */
